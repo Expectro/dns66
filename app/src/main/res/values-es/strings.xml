@@ -55,7 +55,7 @@
     <string name="location_dns">Dirección IP del servidor DNS (IPv4 o IPv6)</string>
     <string name="state_dns_enabled">Activo</string>
     <string name="host_update_error_item">Error %1$d: %2$s</string>
-    <string name="update_incomplete">Actualización incompleta<string>
+    <string name="update_incomplete">Actualización incompleta</string>
     <string name="update_incomplete_description">No se pudo descargar algunos archivos de host. Si los archivos se descargaron previamente, las versiones anteriores seguirán siendo utilizadas.</string>
     <string name="updating_hostfiles">Actualizando archivos host</string>
     <string name="action_use_file">Usar archivo</string>
